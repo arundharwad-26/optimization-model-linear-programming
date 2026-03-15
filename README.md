@@ -99,3 +99,9 @@ Optimization models are widely used in:
 
 **Arun Dharwad**
 MCA Student | Aspiring Data Scientist | Machine Learning Intern | Sofware Engineer|
+
+#OUTPUT
+
+<img width="950" height="669" alt="Image" src="https://github.com/user-attachments/assets/284d25c7-8057-4859-b219-b0d5726b981c" />
+<img width="1147" height="454" alt="Image" src="https://github.com/user-attachments/assets/de837b39-a1d9-4ad0-870c-0b6d7f79c111" />
+<img width="772" height="483" alt="Image" src="https://github.com/user-attachments/assets/e94375cc-0d2d-4c00-8f31-4f7e36cdedaf" />
